@@ -1,3 +1,4 @@
+// Teil 1
 const meinAuto = {
   marke: "Ford",
   modell: "F150",
@@ -8,6 +9,7 @@ const meinAuto = {
 
 console.log("Objekt am Anfang:", meinAuto);
 
+// Teil 2
 meinAuto.baujahr = 2019;
 meinAuto.kilometer = 30000;
 meinAuto.motor = "Diesel";
