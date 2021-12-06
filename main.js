@@ -3,7 +3,7 @@ const BMW = {
     Marke:"BMW",
     Modell: "B150",
     Baujahr: 2017,
-    Kilometer: 110.000,
+    Kilometer: 110000,
     Motor: "Benziner",
 
 };
@@ -16,7 +16,7 @@ console.log(BMW.Motor);
 
 
 BMW.Baujahr=2019;
-BMW.Kilometer=30.000;
+BMW.Kilometer=30000;
 BMW.Motor= "Diesel";
 
 console.log(BMW);
