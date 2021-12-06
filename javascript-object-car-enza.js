@@ -12,8 +12,8 @@ console.log("-------------");
 
 //Aufgabenstellung - Teil 2
 
-meinAuto.baujahr = 2019;
-meinAuto.kilometer = 30000;
+meinAuto.baujahr = meinAuto.baujahr + 2;
+meinAuto.kilometer = meinAuto.kilometer - 80000;
 meinAuto.motor = "Diesel";
 
 console.log(meinAuto);
